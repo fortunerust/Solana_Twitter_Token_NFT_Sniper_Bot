@@ -10,14 +10,14 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹 You're always welcome 🌹
 
-Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
+Telegram: [@fortunerust](https://t.me/FortuneRust) <br>
 
 
 # 👀 Usage
 1. Clone the repository
 
     ```
-    git clone https://github.com/solagent99/Solana_Twitter_Token-NFT_Snipe.git
+    git clone https://github.com/fortunerust/Solana_Twitter_Token-NFT_Snipe.git
     cd solana-twitter-sniper
     ```
 2. Install dependencies
